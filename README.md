@@ -10,10 +10,10 @@ Install Tmux : https://github.com/tmux/tmux (not related to vim but kinda helpfu
 <br>
 
 > [!IMPORTANT]
-> The complete and correct installation of vim-plug is required for the rest
-> Try with :PlugStatus when in vim for check if all is good
-> If it's works good lets go to step 2
-> If not return to step one
+> The complete and correct installation of vim-plug is required for the rest <br>
+> Try with :PlugStatus when in vim for check if all is good <br>
+> If it's works good lets go to step 2 <br>
+> If not return to step one <br>
 
 <h2>Step Two</h2>
 Create a .vimrc files in your Home. 

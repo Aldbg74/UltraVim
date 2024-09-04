@@ -43,3 +43,4 @@ Wait till all package install <br>
 
 <h2>Step Six</h2>
 Enjoy<br>
+All command is on the command_list.md file <br>

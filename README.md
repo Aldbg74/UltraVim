@@ -2,7 +2,12 @@
 Vim but for the giga chad at Epitech
 
 ![Gigachad](https://datepsychology.com/wp-content/uploads/2022/09/gigachad.jpg)
+<br>
 
+
+> [!CAUTION]
+> Project still in work, it's work on my machine and it work on a ubuntu virtual machine <br>
+> But caution is the mother of safety. I am not responsible if you destroy your PC
 
 <h2>Step One</h2>
 Install Vim-Plug : https://github.com/junegunn/vim-plug <br>

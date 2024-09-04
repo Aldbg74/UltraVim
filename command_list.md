@@ -19,7 +19,11 @@ On cli to activate tmux.
     <Ctrl> + <b> then enter: join: allows you to join a single terminal in a split
     <Ctrl> + <b> and <T>: Allows you to have the time
 ```
-If it didn't work use <CTRL> + <B> and <SHIFT> followed by the desired letter
+If it didn't work use 
+```
+<CTRL> + <B> and <SHIFT>
+```
+followed by the desired letter
 
 <h2>Vim</h2>
 Using

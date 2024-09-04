@@ -34,6 +34,12 @@ Ofc Save your files before exiting the file.
 <h2>Step Four</h2>
 Open vim and use <br>
 
+
+```
+:PlugStatus
+```
+And after <br>
+
 ```
 :PlugInstall
 ```

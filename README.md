@@ -19,6 +19,8 @@ Install Tmux : https://github.com/tmux/tmux (not related to vim but kinda helpfu
 > Try with :PlugStatus when in vim for check if all is good <br>
 > If it's works good lets go to step 2 <br>
 > If not return to step one <br>
+> In the worst case (it still dont work)
+> go to google and look for "Install Vim Plug {your os}
 
 <h2>Step Two</h2>
 Create a .vimrc files in your Home. 
